@@ -3,4 +3,5 @@
 
 void feature5(){
     // print hello from feature5
+    printf("hello from feature5\n");
 }
